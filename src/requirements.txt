@@ -1,8 +1,10 @@
 #Feature_1.0_1
-<<<<<<< HEAD
 
 #add to master
-=======
 #Chang ein master branch
 #Change in rel1.0
->>>>>>> rel_1.0
+#Feature rel_1.3
+#Feature rel1.2
+
+#THis is for rel1.2
+#THis is for rel1.2
